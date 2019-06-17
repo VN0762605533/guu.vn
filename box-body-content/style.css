@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 7rem;
+}
+
+.box-body-content {
+	background-image: url(https://thumb.guucdn.net/400x225/images.guucdn.net/full/2019/06/16/dc170c341587ffc8dfd6175249417d73d24173d9.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: ;
+	height: 494px;
+	width: 360px;
+	margin: 15px;
+	position: relative;
+}
+
+.category {
+	background-color: #FF9B29;
+	padding: 6px;
+	width: 95px;
+}
+
+.link-categogy {
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.dig {
+	display: flex;
+	width: 0;
+	height: 37%;
+	border-left: 0.9rem solid transparent;
+	border-right: 0.9rem solid transparent;
+	border-bottom: 1rem solid #fff;
+	margin: 1px;
+}
+
+.author {
+	display: flex;
+/*	text-align: center;
+*/	justify-content: flex-start;
+	align-items: center;
+}
+
+.image-author {
+	width: 32px;
+	height: 32px;
+	background: url(https://avatar.guu.vn/avatar/819258378195355.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+}
+
+.name-author {
+	text-align: center;
+	margin: 0 0.2rem;
+	font-weight: bolder;
+}
+
+.btn-like {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-start;
+	position: absolute;
+	right: 0;
+	top: 48%;
+	border: 1px solid transparent;
+	background-color: #4267b2;
+	padding: 3px 6px;
+	color: #fff;
+	border-radius: 6px;
+}
+
+.like {
+	padding: 0 5px;
+}
+
+.title {
+	text-align: left;
+	margin: 1rem 0;
+	font-size: 1.2rem;
+	font-weight: bolder;
+	line-height: 1.5rem;
+}
+
+.content {
+	line-height: 1.5rem;
+}
