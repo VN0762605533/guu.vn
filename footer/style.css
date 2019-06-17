@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.bg-black {
+	background-color: #000;
+	width: 100%;
+}
+
+.footer-top {
+	height: auto;
+	margin: 0 7rem;
+	display: flex;
+}
+
+.info-left {
+	width: 50%;
+	padding: 1rem 0;
+}
+
+.info-right {
+	width: 50%;
+	padding: 1rem 0;
+}
+
+.ul-info {
+	list-style: none;
+}
+
+.title-foo {
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: bolder;
+	text-transform: uppercase;
+	padding: 1rem 0;
+}
+
+.item-info {
+	margin: 1rem 0;
+	color: #fff;
+	text-decoration: none;
+}
+.li-info {
+	margin: 1rem 0;
+}
+
+.btn-adv {
+	padding: 0.5rem;
+	border-radius: 5px;
+}
+
+.footer-bottom {
+	text-align: center;
+	margin: 1rem 0;
+}
+
+.copyright {
+	padding: 0.5rem 0;
+}
